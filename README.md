@@ -1,4 +1,4 @@
-# Spotify ETL Pipeline
+# “Python ETL Pipeline for Spotify Data with AWS”
 
 ## Project Summary
 
